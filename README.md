@@ -7,14 +7,14 @@ Aplicativo Flutter que entrega uma experiencia estilo Netflix consumindo a [API 
 ## Capturas de Tela
 
 <p align="center">
-  <img src="https://github.com/mobile-leo/movie-hub/blob/main/assets/screenshots/movie-hub-1.jpeg?raw=true" width="180"/>
-  <img src="https://github.com/mobile-leo/movie-hub/blob/main/assets/screenshots/movie-hub-2.jpeg?raw=true" width="180"/>
-  <img src="https://github.com/mobile-leo/movie-hub/blob/main/assets/screenshots/movie-hub-3.jpeg?raw=true" width="180"/>
+  <img src="https://github.com/mobile-leo/movie-hub-flutter/blob/main/assets/screenshots/movie-hub-1.jpeg?raw=true" width="180"/>
+  <img src="https://github.com/mobile-leo/movie-hub-flutter/blob/main/assets/screenshots/movie-hub-2.jpeg?raw=true" width="180"/>
+  <img src="https://github.com/mobile-leo/movie-hub-flutter/blob/main/assets/screenshots/movie-hub-3.jpeg?raw=true" width="180"/>
 </p>
 <p align="center">
-  <img src="https://github.com/mobile-leo/movie-hub/blob/main/assets/screenshots/movie-hub-4.jpeg?raw=true" width="180"/>
-  <img src="https://github.com/mobile-leo/movie-hub/blob/main/assets/screenshots/movie-hub-5.jpeg?raw=true" width="180"/>
-  <img src="https://github.com/mobile-leo/movie-hub/blob/main/assets/screenshots/movie-hub-6.jpeg?raw=true" width="180"/>
+  <img src="https://github.com/mobile-leo/movie-hub-flutter/blob/main/assets/screenshots/movie-hub-4.jpeg?raw=true" width="180"/>
+  <img src="https://github.com/mobile-leo/movie-hub-flutter/blob/main/assets/screenshots/movie-hub-5.jpeg?raw=true" width="180"/>
+  <img src="https://github.com/mobile-leo/movie-hub-flutter/blob/main/assets/screenshots/movie-hub-6.jpeg?raw=true" width="180"/>
 </p>
 
 ---
