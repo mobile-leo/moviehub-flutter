@@ -119,8 +119,7 @@ lib/
 ### Instalacao
 
 ```bash
-# 1. Clone o repositorio
-git clone https://github.com/mobile-leo/movie-hub.git
+git clone https://github.com/mobile-leo/moviehub-flutter.git
 cd movie-hub
 
 # 2. Crie o arquivo de variaveis de ambiente
